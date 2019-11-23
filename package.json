@@ -1,16 +1,16 @@
 {
   "name": "phpx",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Wrap the synchronous http service (like a php), and report the stats to somewhere.",
   "main": "phpx.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "zhenzhong",
+  "author": "speedphp",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhenzhong/phpx.git"
+    "url": "https://github.com/speedphp/phpx.git"
   },
   "keywords": ["proxy", "log", "stats", "php", "es6"],
   "dependencies": {
